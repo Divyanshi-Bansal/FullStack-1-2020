@@ -1,0 +1,23 @@
+body{
+    background-color:white ;
+    color: black;
+    font-size: larger;
+}
+
+h1 {
+    text-align: left;
+    
+    color: red;
+    font-size: 25px;
+}
+
+
+h2{
+    
+    width: fit-content;
+    color: black;
+}
+
+p {
+    font-size: x-medium;
+}
